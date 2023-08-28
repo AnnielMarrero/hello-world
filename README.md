@@ -7,3 +7,5 @@ This tutorial focused on Github
 This repository is built step by step in the tutorial.
 
 Now include Github.
+
+Added line from update-readme branch.
